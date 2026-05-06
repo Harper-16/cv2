@@ -8,7 +8,7 @@ Created on Wed May  6 18:39:53 2026
 
 import cv2
 
-main_image = cv2.imread('/home/dhruv/Pictures/painting.png')
+main_image = cv2.imread('path/to/image')
 
 # =============================================================================
 # grayscale
