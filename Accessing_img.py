@@ -8,7 +8,7 @@ Created on Wed May  6 18:39:53 2026
 
 import cv2
 
-image = cv2.imread('/home/dhruv/Pictures/painting.png')
+image = cv2.imread('path/to/the/image')
 
 cv2.namedWindow('Loaded Image',cv2.WINDOW_NORMAL)
 cv2.resizeWindow('Loaded Image',800,500)
