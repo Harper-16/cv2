@@ -10,7 +10,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = plt.imread("/home/dhruv/Pictures/SpongeBob.jpg")
+image = plt.imread("/path/to/image")
 plt.imshow(image)
 plt.title("IMAGE")
 plt.show()
