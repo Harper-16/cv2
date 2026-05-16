@@ -9,7 +9,7 @@ Created on Sat May 16 11:21:24 2026
 import cv2 
 import matplotlib.pyplot as plt
 
-image_path = "/home/dhruv/Pictures/background.png"
+image_path = "/path/to/image"
 
 image = cv2.imread(image_path)
 
