@@ -9,7 +9,7 @@ Created on Sat May  9 11:21:08 2026
 import cv2 
 import matplotlib.pyplot as plt
 
-image = plt.imread("/path/to/image")
+image = plt.imread("/home/dhruv/Pictures/SpongeBob.jpg")
 
 image_rgb = cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
 
